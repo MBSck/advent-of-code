@@ -3,7 +3,7 @@ Placeholder text
 ## Progress
 
 * Day 1 - 🟢 `done`
-* Day 2 - 🔴 `not started`
+* Day 2 - 🟢 `done`
 * Day 3 - 🔴 `not started`
 * Day 4 - 🔴 `not started`
 * Day 5 - 🔴 `not started`
