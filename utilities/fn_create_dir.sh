@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Variables
-PERSON_LIST='caro molly marten'
+PERSON_LIST='solutions'
 UTILITY_PATH=/Users/scheuck/Desktop/DoNotBackup/advent-of-code-2021/utilities
 
 # Creates the .gitignore and README.md
