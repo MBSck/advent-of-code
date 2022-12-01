@@ -1,3 +1,6 @@
 [submodule "utils"]
 	path = utils
 	url = git@github.com:MBSck/aoc-repo-utilities.git
+[submodule "2022/Marten"]
+	path = 2022/Marten
+	url = https://github.com/MBSck/advent-of-code-2022
