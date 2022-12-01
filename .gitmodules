@@ -4,3 +4,6 @@
 [submodule "2022/Marten"]
 	path = 2022/Marten
 	url = https://github.com/MBSck/advent-of-code-2022
+[submodule "2022/Molly"]
+	path = 2022/Molly
+	url = https://github.com/MRAWells/advent-of-code-2022
